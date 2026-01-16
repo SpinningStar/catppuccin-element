@@ -15,6 +15,11 @@
 	<img src="./assets/preview.webp"/>
 </p>
 
+## Changes from the original
+
+- Fixes for both mx_PanelLeft and mx_PanelRight to use base.hex as the background color.
+- Also sets mx_PanelRight buttons to surface0.hex as the background color.
+
 ## Previews
 
 <details>
