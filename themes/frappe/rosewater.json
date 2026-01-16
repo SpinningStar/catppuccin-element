@@ -43,6 +43,8 @@
   "compound": {
     "--cpd-color-bg-canvas-default": "#303446",
     "--cpd-color-bg-subtle-primary": "#292c3c",
-    "--cpd-color-bg-subtle-secondary": "#292c3c"
+    "--cpd-color-bg-subtle-secondary": "#292c3c",
+    "--cpd-color-bg-action-primary-rest": "#414559",
+    "--cpd-color-bg-action-secondary-rest": "#414559"
   }
 }
