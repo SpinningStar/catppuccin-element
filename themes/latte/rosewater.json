@@ -39,5 +39,10 @@
       "#8839ef",
       "#40a02b"
     ]
+  },
+  "compound": {
+    "--cpd-color-bg-canvas-default": "#eff1f5",
+    "--cpd-color-bg-subtle-primary": "#e6e9ef",
+    "--cpd-color-bg-subtle-secondary": "#e6e9ef"
   }
 }

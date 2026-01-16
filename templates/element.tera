@@ -47,5 +47,10 @@ whiskers:
       "#{{ mauve.hex }}",
       "#{{ green.hex }}"
     ]
+  },
+  "compound": {
+    "--cpd-color-bg-canvas-default": "#{{ base.hex }}",
+    "--cpd-color-bg-subtle-primary": "#{{ mantle.hex }}",
+    "--cpd-color-bg-subtle-secondary": "#{{ mantle.hex }}"
   }
 }
