@@ -14,8 +14,8 @@ whiskers:
     "primary-color": "#{{ flavor.colors[accent].hex }}",
     "warning-color": "#{{ red.hex }}",
     "alert": "#{{ yellow.hex }}",
-    "sidebar-color": "#{{ crust.hex }}",
-    "roomlist-background-color": "#{{ mantle.hex }}",
+    "sidebar-color": "#{{ mantle.hex }}",
+    "roomlist-background-color": "#{{ crust.hex }}",
     "roomlist-text-color": "#{{ text.hex }}",
     "roomlist-text-secondary-color": "#{{ overlay2.hex }}",
     "roomlist-highlights-color": "#{{ surface1.hex }}",
@@ -49,9 +49,9 @@ whiskers:
     ]
   },
   "compound": {
-    "--cpd-color-bg-canvas-default": "#{{ base.hex }}",
-    "--cpd-color-bg-subtle-primary": "#{{ mantle.hex }}",
-    "--cpd-color-bg-subtle-secondary": "#{{ mantle.hex }}",
+    "--cpd-color-bg-canvas-default": "#{{ mantle.hex }}",
+    "--cpd-color-bg-subtle-primary": "#{{ crust.hex }}",
+    "--cpd-color-bg-subtle-secondary": "#{{ crust.hex }}",
     "--cpd-color-bg-action-primary-rest": "#{{ surface0.hex }}",
     "--cpd-color-bg-action-secondary-rest": "#{{ surface0.hex }}"
   }

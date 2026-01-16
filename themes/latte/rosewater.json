@@ -6,8 +6,8 @@
     "primary-color": "#dc8a78",
     "warning-color": "#d20f39",
     "alert": "#df8e1d",
-    "sidebar-color": "#dce0e8",
-    "roomlist-background-color": "#e6e9ef",
+    "sidebar-color": "#e6e9ef",
+    "roomlist-background-color": "#dce0e8",
     "roomlist-text-color": "#4c4f69",
     "roomlist-text-secondary-color": "#7c7f93",
     "roomlist-highlights-color": "#bcc0cc",
@@ -41,9 +41,9 @@
     ]
   },
   "compound": {
-    "--cpd-color-bg-canvas-default": "#eff1f5",
-    "--cpd-color-bg-subtle-primary": "#e6e9ef",
-    "--cpd-color-bg-subtle-secondary": "#e6e9ef",
+    "--cpd-color-bg-canvas-default": "#e6e9ef",
+    "--cpd-color-bg-subtle-primary": "#dce0e8",
+    "--cpd-color-bg-subtle-secondary": "#dce0e8",
     "--cpd-color-bg-action-primary-rest": "#ccd0da",
     "--cpd-color-bg-action-secondary-rest": "#ccd0da"
   }
